@@ -1,0 +1,13 @@
+{
+  "name": "school-proxy",
+  "version": "1.0.0",
+  "main": "server.js",
+  "type": "module",
+  "dependencies": {
+    "@titaniumnetwork-dev/ultraviolet": "latest",
+    "express": "latest"
+  },
+  "scripts": {
+    "start": "node server.js"
+  }
+}
